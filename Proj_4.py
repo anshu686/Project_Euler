@@ -9,7 +9,7 @@ l =[]
 
 for i in range(100, 1000):
     # print("i =", i, ":", end=" ")
-    for j in range(100, 999):
+    for j in range(100, 1000):
         p = i*j
         z.append(p)
     #     print("{:2d}".format(i * j), end=" ")
