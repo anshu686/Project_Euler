@@ -9,8 +9,5 @@ sum1 = 0
 for i in range(1000):
     if (i % 3 ==0) or (i % 5 ==0):
         a.append(i)
-# print (a)
-for num in a:
-    sum1 += num
-print(sum1)
+print(sum(a))
 
