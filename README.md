@@ -1,2 +1,2 @@
 # Euler_project
-My ways of solving Euler_project problems with python. You can find all the problems of Euler_project at this page https://projecteuler.net/
+A different approach for solving Project_Euler problems with python. Use timeit module for calculating the processing time of each code. You can find all the problems at this web page https://projecteuler.net/
